@@ -53,7 +53,10 @@ A curated guide to help you learn .NET and C# — from the basics to building re
 - [Martin Fowler - Unit of Work](https://www.martinfowler.com/eaaCatalog/unitOfWork.html)  
   A concise explanation of the pattern.
 
-- [YouTube - Dependency Injection in .NET](https://www.youtube.com/watch?v=KMErAbXRQdg) [7 min]  
+- [YouTube - Dependency Injection in .NET](https://www.youtube.com/watch?v=KMErAbXRQdg) [7 min]
+- [Dependency Injection By Hand](https://github.com/ninject/ninject/wiki/Dependency-Injection-By-Hand)  
+  A quick read to understand dependency injection. Has good example and very easy to understand.
+  
 - [YouTube - Unit of Work in ASP.NET Core](https://www.youtube.com/watch?v=D_clPDWYpgs) [15 min]  
 - [YouTube Playlist - Repository + Unit of Work Patterns in .NET Framework](https://www.youtube.com/playlist?list=PL_jn5jikluSIFQqQjiZtW0eWknXmPjNZA)
 
